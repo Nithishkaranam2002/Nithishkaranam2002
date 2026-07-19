@@ -1,17 +1,26 @@
-<h1 align="center">Hi, I'm Nithish Karanam 👋</h1>
-<h3 align="center">AI/ML Engineer — Agentic Systems, RAG Architectures & Production LLM Platforms</h3>
+<div align="center">
 
-<p align="center">
-I design and ship production AI systems — not prototypes. My work spans multi-agent LangGraph pipelines,
-hybrid retrieval architectures indexing tens of thousands of documents, and privacy-preserving healthcare
-tools deployed on real infrastructure. Domains: legal tech, fintech, logistics, and healthcare.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Nithish%20Karanam&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20-%20Agentic%20Systems%20and%20RAG%20Architectures&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-MS in Artificial Intelligence, University of North Texas (2026) · NVIDIA-Certified in Agentic AI & Generative AI LLMs
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&lines=Building+production+agentic+AI+systems%2C+not+notebooks;LangGraph+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+React%2FTypeScript;MS+in+AI+%40+University+of+North+Texas+%C2%B7+NVIDIA-Certified)](https://git.io/typing-svg)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Nithishkaranam2002&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
+
+## 🧠 About Me
+
+I hold an MS in Artificial Intelligence from the University of North Texas (May 2026, GPA 3.5) and I'm NVIDIA-certified in both Agentic AI (NCP-AAI) and Generative AI LLMs — but the certifications are the smaller part of the story. Most of what I know came from building and shipping real systems.
+
+I build production-grade agentic AI: multi-agent pipelines orchestrated with LangGraph, RAG architectures with hybrid retrieval, FastAPI backends serving real-time ML inference, and full-stack deployments running on Docker, PostgreSQL, and React/TypeScript. I take systems from idea to something actually deployed and used — not notebooks that stop at a demo.
+
+What genuinely holds my attention in AI is agentic orchestration and retrieval architecture, especially applied to domains where the stakes are real — healthcare, legal, fintech, and logistics — where reliability and safety matter as much as raw capability. That's the throughline across the projects below: legal research, financial reconciliation, healthcare data, and freight logistics, all built with the same bias toward systems that hold up outside a demo.
+
+I'm looking to join a team building applied AI products where I can own systems end-to-end — from architecture through deployment — and keep pushing on making them more reliable, explainable, and genuinely useful in production.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
 ## 🚀 Flagship Projects
 
@@ -33,8 +42,6 @@ Full-stack RAG platform for immigration legal research, deployed on DigitalOcean
 
 **🔗 [Live Demo](#) &nbsp;•&nbsp; 📦 [Repository](#)** <sub>*(replace # with your links)*</sub>
 
----
-
 ### 💸 FinFlow
 Agentic invoice-to-reconciliation platform built on a five-agent LangGraph pipeline, with multi-tenant RBAC, Langfuse observability, and DeepEval-driven CI evaluation. Deployed on DigitalOcean.
 
@@ -45,8 +52,6 @@ Agentic invoice-to-reconciliation platform built on a five-agent LangGraph pipel
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
 **🔗 [Live Demo](#) &nbsp;•&nbsp; 📦 [Repository](#)** <sub>*(replace # with your links)*</sub>
-
----
 
 ### 🚛 DeadMile AI
 Trucking load optimization SaaS built on a 19-container architecture. Started as a Buildathon 2026 project, now an active SaaS build.
@@ -63,25 +68,24 @@ Trucking load optimization SaaS built on a 19-container architecture. Started as
 
 **🔗 [Live Demo](#) &nbsp;•&nbsp; 📦 [Repository](#)** <sub>*(replace # with your links)*</sub>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
 ## 🧩 Other Projects
 
 | Project | What it does | Tech |
 |---|---|---|
-| **MedAssist-AI** | Privacy-preserving healthcare assistant. PHI redaction before every LLM call, JWT-based RBAC (3 roles), HIPAA/GDPR-aligned design, EHR summarization, microservice architecture. | FastAPI, JWT, LLM, Microservices |
-| **ShopVoice** | Voice-first AI shopping assistant for blind and visually impaired users (UNT Research Assistant project). Voice in, voice out shopping over a real storefront. | LangGraph, GPT-4o, FastAPI, Streamlit, Docker, Whisper STT, ElevenLabs TTS, Shopify Storefront API, PostgreSQL |
-| **Clinical Trial Intelligence Assistant** | Six-module clinical research assistant including CTCAE v5.0 adverse event grading and live ClinicalTrials.gov data. | FastAPI, Streamlit, GPT-4o-mini, ChromaDB, Docker, ClinicalTrials.gov API v2 |
-| **Knowledge Gap Finder** | Research discovery tool that surfaces under-explored areas in the literature via semantic clustering and a custom Gap Score (UNT Information Retrieval course). | Semantic Scholar API, ArXiv API, SentenceTransformers, FAISS, BM25, RRF, KMeans, FastAPI |
+| **MedAssist-AI** | Privacy-preserving healthcare assistant. PHI redaction before every LLM call, JWT-based RBAC (3 roles), HIPAA/GDPR-aligned design, EHR summarization. | FastAPI, JWT, LLM |
+| **ShopVoice** | Voice-first AI shopping assistant for blind and visually impaired users. | LangGraph, GPT-4o, Whisper STT, ElevenLabs TTS, Shopify Storefront API |
+| **Clinical Trial Intelligence Assistant** | Clinical research assistant with CTCAE v5.0 adverse event grading and live ClinicalTrials.gov data. | FastAPI, Streamlit, GPT-4o-mini, ChromaDB |
+| **Knowledge Gap Finder** | Research discovery tool surfacing under-explored areas in the literature via semantic clustering and a custom Gap Score. | Semantic Scholar API, ArXiv API, FAISS, BM25, RRF, KMeans |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
-**🧠 LLM / Agentic AI**
+**🧠 Agentic AI / LLM**
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG%20Architectures-4B8BBE?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-333333?style=flat-square)
 ![Multi--Agent](https://img.shields.io/badge/Multi--Agent%20Systems-FF6F00?style=flat-square)
 ![GPT--4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-8A2BE2?style=flat-square)
@@ -112,38 +116,48 @@ Trucking load optimization SaaS built on a 19-container architecture. Started as
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**🐳 DevOps**
+**🐳 DevOps / Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithishkaranam2002&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nithishkaranam2002&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Nithishkaranam2002&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Nithishkaranam2002&theme=radical&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishkaranam2002&layout=compact&theme=radical&hide_border=true" width="48%"/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nithishkaranam2002&theme=radical&no-frame=true&row=1&column=6)
+
+![Snake animation](https://raw.githubusercontent.com/Nithishkaranam2002/Nithishkaranam2002/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<sub>*The snake animation above requires a one-time GitHub Actions workflow (e.g. the `platane/snk` action) to generate the `output` branch — it won't render until that's set up on your repo.*</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
 ## 🏅 Certifications
 
-- **NVIDIA-Certified Professional: Agentic AI (NCP-AAI)**
-- **NVIDIA-Certified: Generative AI LLMs**
+![NVIDIA Agentic AI](https://img.shields.io/badge/NVIDIA%20Certified-Agentic%20AI%20(NCP--AAI)-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA GenAI LLMs](https://img.shields.io/badge/NVIDIA%20Certified-Generative%20AI%20LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
 ## 🤝 Let's Connect
 
-📍 Looking for **AI Engineer / ML Engineer** roles.
+📍 Looking for **AI Engineer / ML Engineer** roles — ideally on a team building applied agentic or RAG systems for high-stakes domains, where I can own systems end-to-end and keep pushing on reliability, not just demo polish.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 <sub>*(replace # with your LinkedIn, email, and portfolio links)*</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
