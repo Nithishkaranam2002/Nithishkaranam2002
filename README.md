@@ -125,24 +125,14 @@ Trucking load optimization SaaS built on a 19-container architecture. Started as
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Nithishkaranam2002&show_icons=true&theme=radical&hide_border=true" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=Nithishkaranam2002&theme=radical&hide_border=true" width="48%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishkaranam2002&layout=compact&theme=radical&hide_border=true" width="48%"/>
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Nithishkaranam2002&theme=radical&no-frame=true&row=1&column=6)
-
 ![Snake animation](https://raw.githubusercontent.com/Nithishkaranam2002/Nithishkaranam2002/output/github-contribution-grid-snake.svg)
-
 </div>
-
 <sub>*The snake animation above requires a one-time GitHub Actions workflow (e.g. the `platane/snk` action) to generate the `output` branch — it won't render until that's set up on your repo.*</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
-
 ## 🏅 Certifications
 
 ![NVIDIA Agentic AI](https://img.shields.io/badge/NVIDIA%20Certified-Agentic%20AI%20(NCP--AAI)-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
